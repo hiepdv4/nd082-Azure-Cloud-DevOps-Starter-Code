@@ -39,3 +39,4 @@ For this project, you will write a Packer template and a Terraform template to d
 
 ### Output
 1. az policy assignment list
+![alt text](https://github.com/hiepdv4/nd082-Azure-Cloud-DevOps-Starter-Code/blob/f7ad6da54154f98735816800a0c30e75e0b7fbda/C1%20-%20Azure%20Infrastructure%20Operations/project/starter_files/assignment.jpg)
