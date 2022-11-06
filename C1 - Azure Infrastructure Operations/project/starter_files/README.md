@@ -54,6 +54,6 @@ For this project, you will write a Packer template and a Terraform template to d
   - Terraform plan
 ![alt text](https://github.com/hiepdv4/nd082-Azure-Cloud-DevOps-Starter-Code/blob/a204180bc236379ae36cceeaa751a00bfc8e27f1/C1%20-%20Azure%20Infrastructure%20Operations/project/starter_files/terraform-plan.jpg)
   - Terraform apply solution-plan
-![alt text](https://github.com/hiepdv4/nd082-Azure-Cloud-DevOps-Starter-Code/blob/a204180bc236379ae36cceeaa751a00bfc8e27f1/C1%20-%20Azure%20Infrastructure%20Operations/project/starter_files/terraform-plan.jpg)
+![alt text](https://github.com/hiepdv4/nd082-Azure-Cloud-DevOps-Starter-Code/blob/d84b2811ae450f8188ac55c17d6a1d3520034dac/C1%20-%20Azure%20Infrastructure%20Operations/project/starter_files/teraform-apply.png)
   - Verify resource build from terraform
 ![alt text](https://github.com/hiepdv4/nd082-Azure-Cloud-DevOps-Starter-Code/blob/a204180bc236379ae36cceeaa751a00bfc8e27f1/C1%20-%20Azure%20Infrastructure%20Operations/project/starter_files/terraformbuild.jpg)
